@@ -1,0 +1,31 @@
+.maindiv{
+    background-color: aqua;
+    width: 300px;
+    padding: 20px;
+    border-radius: 30px;
+    border: 3px dashed mediumblue;
+    display: inline-block;
+    margin: 20px;
+}
+.roseImg{
+    width: 200px;
+}
+.jasmineImg{
+    width: 300px;
+}
+.begoniaImg{
+    width: 300px;
+    height: 580px;
+}
+
+.navigation{
+
+}
+
+
+div h2{
+    text-align: center;
+}
+div p{
+    text-align: justify;
+}
